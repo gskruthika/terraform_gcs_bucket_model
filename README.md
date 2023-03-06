@@ -1,0 +1,1 @@
+# terraform_gcs_bucket_model
